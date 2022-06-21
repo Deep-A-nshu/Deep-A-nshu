@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deep-A-nshu
 - 👀 I’m interested in development especially mobile dev
 - 🌱 I’m currently learning CSE with special interest in mobile dev and web dev
-- 💞️ I’m looking to collaborate on ...
+-  I’m looking to collaborate on ...
 - 📫 How to reach me : mail me @ youknowme2930@gmail.com 
 
 <!---
